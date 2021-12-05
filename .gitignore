@@ -1,0 +1,12 @@
+main
+*.swp
+build/
+Dockerfile
+compile_commands.json
+.vscode
+
+spack-*
+spack.lock
+.spack-env
+._view
+ci/view
